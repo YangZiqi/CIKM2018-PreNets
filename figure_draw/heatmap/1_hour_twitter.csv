@@ -1,0 +1,5 @@
+,PreNets-MB,PreNets-MF
+RNN v.s. LR,0.2014,0.202
+RNN v.s. NN,0.1684,0.182
+LSTM v.s. LR,0.1864,0.206
+LSTM v.s. NN,0.1574,0.169

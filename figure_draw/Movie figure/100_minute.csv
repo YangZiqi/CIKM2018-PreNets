@@ -1,0 +1,5 @@
+MAPE,,
+0.2536,only temporal,PreNets-MB
+0.210488,all features,PreNets-MB
+0.2762,only temporal,PreNets-MF
+0.223722,all features,PreNets-MF
