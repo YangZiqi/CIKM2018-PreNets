@@ -1,5 +1,5 @@
 # PreNets - CIKM 2018
-### Title: Adversarial Training Model Unifying Feature Driven and Point Process Perspectives for Event Popularity Prediction
+### The 27th ACM International Conference on Information and Knowledge Management (CIKM), Lingotto, Turin, Italy.
 <strong>Author</strong>: Qitian Wu, <a href="http://chaoqiyang.com">Chaoqi Yang</a>, Hengrui Zhang, Xiaofeng Gao, Paul Weng and Guihai Chen<br>
-<strong>Location</strong>:The 27th ACM International Conference on Information and Knowledge Management (CIKM), Lingotto, Turin, Italy.
+<strong>Title</strong>: Adversarial Training Model Unifying Feature Driven and Point Process Perspectives for Event Popularity Prediction
 
