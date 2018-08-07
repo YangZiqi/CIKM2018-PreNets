@@ -8,7 +8,6 @@
 ‘interpreter’ would push the ‘critic’ to select the effective early features that can help the discrimination. This mechanism enables the framework to absorb the strengths of both feature driven and point process methods. Empirical results show that PreNets can achieve 21.1% MAPE improvement for Twitter cascade prediction and 6.3% for Amazon review prediction.
 
 <table><tr>
-<td><img src="result/train-epoch.pdf border=0></td>
-<td><img src="result/heatmap.pdf" border=0></td>
-<td><img src="result/error_twitter.pdf" border=0></td>
+<td><img src="result/framework1.png" border=0></td>
+<td><img src="result/framework2.png" border=0></td>
 </tr></table>
